@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\refint\Wizard-Ninja-Samurai.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Wizard-Ninja-Samurai\obj\Debug\net6.0\ref\Wizard-Ninja-Samurai.dll
